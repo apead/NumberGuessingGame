@@ -11,4 +11,11 @@ namespace NumberGuessingGame
         Correct,
         OutOfLimits
     }
+
+    internal enum Decision
+    {
+        Y,
+        N
+
+    }
 }
