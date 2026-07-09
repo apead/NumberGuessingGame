@@ -11,6 +11,7 @@
             {
                 int maximum = 0;
                 string difficulty = string.Empty;
+                inputValid = false;
 
                 while (!inputValid)
                 {
