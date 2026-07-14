@@ -1,5 +1,7 @@
 ﻿namespace NumberGuessingGame
 {
+    //This class is the UI Definition for the application
+
     internal class Program
     {
         static void Main(string[] args)
