@@ -91,7 +91,10 @@
 
                     playAgain = playAgain.ToUpper();
 
-                    if ((playAgain == "Y") || (playAgain == "N"))
+                    
+                   
+
+                    if ((playAgain == Decision.Y.ToString()) || (playAgain == Decision.N.ToString()))
                     {
                         inputValid = true;
                       
